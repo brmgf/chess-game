@@ -21,6 +21,12 @@ public class Rook extends ChessPiece {
 		boolean[][] mat = new boolean[getBoard().getRows()][getBoard().getColumns()];
 		Position p = new Position(0, 0);
 
+		/*
+		 * TESTING POSSIBLE MOVES: take the following positions around the piece 
+		 * while this position exists and it's free the mat will mark the position as a possible
+		 * move to the piece
+		 */
+		
 		// above
 		p.setValues(position.getRow() - 1, position.getColumn());
 		while (getBoard().positionExists(p) && !getBoard().thereIsAPiece(p)) {
