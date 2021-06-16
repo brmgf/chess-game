@@ -31,7 +31,7 @@ public class Program {
 				/* overrides the printboard printing the possible moves*/
 				UI.printBoard(chessMatch.getPieces(), possibleMoves);
 				
-				System.out.print("Target: ");
+				System.out.print("\nTarget: ");
 				ChessPosition target = UI.readChessPosition(sc);
 			
 				ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
