@@ -10,7 +10,7 @@ Basically, we have define all the rules of movements for each piece. When the pl
 ![](https://github.com/brmgf/chess-game/blob/main/chess.gif)
 
 ## Instructions to play:
-After you download the file, go to the bin folder, open your favorite command prompt and type *java application/Program*
+After you download the file, go to the src folder, open your favorite command prompt and type *java application/Program*
 
 You're ready to start! :girl:
 
