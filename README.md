@@ -12,12 +12,7 @@ Basically, we have define all the rules of movements for each piece. When the pl
 ## Instructions to play:
 After you download the file, go to the src folder, open your favorite command prompt and type *java application/Program*
 
-You're ready to start! :girl:
-
-Happy gamming and goodbye :saxophone:
-
-![](https://5efce21e120dc77e32455754.static-01.com/l/images/87029248b45009606588d3ebace197fc1c82a32f.gif)
-
+You're ready to start. Good gamming! :girl:
 
 
 
