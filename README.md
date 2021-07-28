@@ -5,7 +5,6 @@ This project was developed together in this [complete java course](https://www.u
 
 It consists in a Java application build in layers.
 Basically, we have define all the rules of movements for each piece. When the player select a piece, the board will show all the possible moves the player can do.
-(The code is also properly commented as a good pratice of programming).
 
 ![](https://github.com/brmgf/chess-game/blob/main/chess.gif)
 
